@@ -1,5 +1,2 @@
 # test-repository
-This is a test description
-
-
-This is a second example
+This is an wholesome project to follow through on
